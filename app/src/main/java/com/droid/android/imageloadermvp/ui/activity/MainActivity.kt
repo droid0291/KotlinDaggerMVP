@@ -1,7 +1,8 @@
-package com.droid.android.imageloadermvp
+package com.droid.android.imageloadermvp.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.droid.android.imageloadermvp.R
 
 class MainActivity : AppCompatActivity() {
 
